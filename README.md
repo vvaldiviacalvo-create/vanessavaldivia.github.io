@@ -1,4 +1,3 @@
-HTML
 <style>
   header { display: none !important; }
   section { width: 100% !important; float: none !important; max-width: 980px !important; margin: 0 auto !important; }
