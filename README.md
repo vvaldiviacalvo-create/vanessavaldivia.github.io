@@ -1,8 +1,4 @@
-<div style="display: flex; gap: 40px; align-items: flex-start; flex-wrap: wrap;">
-
-<div style="flex: 1; min-width: 220px; text-align: center;">
-
-<img src="foto.jpg" alt="Vanessa Valdivia" style="width: 160px; height: 160px; border-radius: 50%; object-fit: cover; margin: 0 auto 15px;">
+<img src="foto.jpg" alt="Vanessa Valdivia" style="float: left; width: 160px; height: 160px; border-radius: 50%; object-fit: cover; margin-right: 30px; margin-bottom: 20px;">
 
 # Vanessa Valdivia
 
@@ -10,9 +6,9 @@
 
 [Ver mi perfil de GitHub](https://github.com/vvaldiviacalvo-create)
 
-</div>
+<div style="clear: both;"></div>
 
-<div style="flex: 2; min-width: 300px;">
+---
 
 ## Acerca de mí
 
@@ -46,7 +42,3 @@ Auditoría de calidad sobre +25k órdenes, recálculo de ingresos, tratamiento d
 Identificación de factores clave en la conversión y comportamiento de retención mensual utilizando Common Table Expressions (CTEs) y funciones de ventana en SQL.
 
 **Herramientas y tipo de proyecto:** `SQL` `POSTGRESQL` `ANALYTICS`
-
-</div>
-
-</div>
