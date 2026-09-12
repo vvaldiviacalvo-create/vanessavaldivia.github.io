@@ -1,6 +1,6 @@
 # Vanessa Valdivia
 
-![Vanessa Valdivia](foto.jpg)
+<img src="foto.jpg" alt="Vanessa Valdivia" style="width: 150px; border-radius: 50%; display: block; margin-bottom: 15px;">
 
 ¡Hola! Te doy la bienvenida a mi portafolio de proyectos de Análisis de Datos.
 
