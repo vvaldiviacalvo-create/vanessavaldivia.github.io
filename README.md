@@ -1,4 +1,4 @@
-<img src="foto.jpg" alt="Vanessa Valdivia" style="float: left; width: 160px; height: 160px; border-radius: 50%; object-fit: cover; margin-right: 30px; margin-bottom: 20px;">
+<img src="foto.jpg" alt="Vanessa Valdivia" style="float: left; width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-right: 25px; margin-bottom: 15px;">
 
 # Vanessa Valdivia
 
@@ -12,7 +12,7 @@
 
 ## Acerca de mí
 
-Profesional en análisis de datos con experiencia en ejecución de procesos técnicos, contractuales y de auditoría de calidad. 
+Profesional en análisis de datos con experiencia en ejecución de procesos técnicos, contractuales y de auditoría de calidad.
 
 Genero insights accionables que optimizan procesos y apoyan la toma de decisiones estratégicas, estructurando datos complejos y validando hipótesis.
 
@@ -23,7 +23,7 @@ Genero insights accionables que optimizan procesos y apoyan la toma de decisione
 
 ### Habilidades blandas
 
-Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo en equipo | Orientación a resultados | Organización | Proactividad | Atención al detalle | Optimización de Procesos
+Análisis de datos • Resolución de problemas • Comunicación efectiva • Trabajo en equipo • Orientación a resultados • Organización • Proactividad • Atención al detalle • Optimización de Procesos
 
 ---
 
