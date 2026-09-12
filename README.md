@@ -47,20 +47,20 @@
 
 <h1 style="font-size: 2.3em; font-weight: bold; color: #111827; margin-bottom: 12px; border-bottom: 2px solid #e5e7eb; padding-bottom: 6px;">Acerca de mí</h1>
 
-<p>Profesional en análisis de datos con experiencia en ejecución de procesos técnicos, contractuales y de auditoría de calidad.</p>
+<p>Me apasiona encontrar el sentido detrás de los números y transformar datos complejos en historias visuales que impulsen decisiones inteligentes.</p>
 
-<p>Genero insights accionables que optimizan procesos y apoyan la toma de decisiones estratégicas, estructurando datos complejos y validando hipótesis.</p>
+<p>Analista de Business Intelligence con un trasfondo de más de una década ejecutando procesos técnicos, licitaciones y control de calidad. Utilizo SQL, Python, Power BI y Tableau para realizar limpieza rigurosa, modelado de datos y diseño de KPIs interactivos que optimizan la toma de decisiones y reducen riesgos operativos.</p>
 
 <h2 style="font-size: 1.7em; font-weight: bold; color: #1f2937; margin-top: 25px; margin-bottom: 10px;">Habilidades tecnológicas</h2>
 
 <ul style="margin-top: 5px; padding-left: 20px;">
-  <li style="margin-bottom: 8px;">Análisis y gestión de datos utilizando <b>SQL / Python</b></li>
+  <li style="margin-bottom: 8px;">Análisis y gestión de datos utilizando <b>Excel / SQL / Python</b></li>
   <li>Visualización de datos y narración de historias usando <b>Power BI / Tableau</b></li>
 </ul>
 
 <h2 style="font-size: 1.7em; font-weight: bold; color: #1f2937; margin-top: 25px; margin-bottom: 10px;">Habilidades blandas</h2>
 
-<p style="color: #4b5563; font-size: 1.05em;">Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo en equipo | Orientación a resultados | Organización | Proactividad | Atención al detalle | Optimización de Procesos</p>
+<p style="color: #4b5563; font-size: 1.05em;">Análisis de datos | Rigor y precisión técnica | Pensamiento estratégico y de negocio | Comunicación efectiva | Resolución de problemas complejos | Gestión de procesos | Atención al detalle | Colaboración interdisciplinaria | Adaptabilidad y resiliencia</p>
 
 <br>
 
