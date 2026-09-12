@@ -27,36 +27,38 @@
 
 <h1 style="font-size: 2em; font-weight: bold; color: #111827; margin-bottom: 10px; border-bottom: 2px solid #e5e7eb; padding-bottom: 5px;">Acerca de mí</h1>
 
-Profesional en análisis de datos con experiencia en ejecución de procesos técnicos, contractuales y de auditoría de calidad.
+<p>Profesional en análisis de datos con experiencia en ejecución de procesos técnicos, contractuales y de auditoría de calidad.</p>
 
-Genero insights accionables que optimizan procesos y apoyan la toma de decisiones estratégicas, estructurando datos complejos y validando hipótesis.
+<p>Genero insights accionables que optimizan procesos y apoyan la toma de decisiones estratégicas, estructurando datos complejos y validando hipótesis.</p>
 
 <h2 style="font-size: 1.5em; font-weight: bold; color: #1f2937; margin-top: 20px; margin-bottom: 8px;">Habilidades tecnológicas</h2>
 
-* **Análisis y gestión de datos:** SQL / Python
-* **Visualización de datos:** Power BI / Tableau
+<ul style="margin-top: 5px; padding-left: 20px;">
+  <li style="margin-bottom: 5px;"><b>Análisis y gestión de datos:</b> SQL / Python</li>
+  <li><b>Visualización de datos:</b> Power BI / Tableau</li>
+</ul>
 
 <h2 style="font-size: 1.5em; font-weight: bold; color: #1f2937; margin-top: 20px; margin-bottom: 8px;">Habilidades blandas</h2>
 
-Análisis de datos • Resolución de problemas • Comunicación efectiva • Trabajo en equipo • Orientación a resultados • Organización • Proactividad • Atención al detalle • Optimización de Procesos
+<p>Análisis de datos • Resolución de problemas • Comunicación efectiva • Trabajo en equipo • Orientación a resultados • Organización • Proactividad • Atención al detalle • Optimización de Procesos</p>
 
 <br>
 
-<h1 style="font-size: 2em; font-weight: bold; color: #111827; margin-top: 30px; margin-bottom: 10px; border-bottom: 2px solid #e5e7eb; padding-bottom: 5px;">Proyectos seleccionados</h1>
+<h1 style="font-size: 2em; font-weight: bold; color: #111827; margin-top: 20px; margin-bottom: 10px; border-bottom: 2px solid #e5e7eb; padding-bottom: 5px;">Proyectos seleccionados</h1>
 
 <h2 style="font-size: 1.4em; font-weight: bold; color: #1f2937; margin-top: 15px; margin-bottom: 8px;">RappiPlus: Data Pipeline & Unit Economics</h2>
 
-Auditoría de calidad sobre +25k órdenes, recálculo de ingresos, tratamiento de outliers mediante Winsorización y pruebas A/B en el checkout para optimizar la conversión.
+<p>Auditoría de calidad sobre +25k órdenes, recálculo de ingresos, tratamiento de outliers mediante Winsorización y pruebas A/B en el checkout para optimizar la conversión.</p>
 
-**Herramientas y tipo de proyecto:** `PYTHON` `SQL` `POWER BI` `SCIPY`
+<p><b>Herramientas y tipo de proyecto:</b> <code>PYTHON</code> <code>SQL</code> <code>POWER BI</code> <code>SCIPY</code></p>
 
 <br>
 
-<h2 style="font-size: 1.4em; font-weight: bold; color: #1f2937; margin-top: 20px; margin-bottom: 8px;">Análisis de retención y conversión en E-commerce</h2>
+<h2 style="font-size: 1.4em; font-weight: bold; color: #1f2937; margin-top: 15px; margin-bottom: 8px;">Análisis de retención y conversión en E-commerce</h2>
 
-Identificación de factores clave en la conversión y comportamiento de retención mensual utilizando Common Table Expressions (CTEs) y funciones de ventana en SQL.
+<p>Identificación de factores clave en la conversión y comportamiento de retención mensual utilizando Common Table Expressions (CTEs) y funciones de ventana en SQL.</p>
 
-**Herramientas y tipo de proyecto:** `SQL` `POSTGRESQL` `ANALYTICS`
+<p><b>Herramientas y tipo de proyecto:</b> <code>SQL</code> <code>POSTGRESQL</code> <code>ANALYTICS</code></p>
 
 </td>
 </tr>
