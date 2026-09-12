@@ -2,9 +2,9 @@
 
 <div style="flex: 1; min-width: 220px; text-align: center;">
 
-# Vanessa Valdivia
+<img src="foto.jpg" alt="Vanessa Valdivia" style="width: 160px; height: 160px; border-radius: 50%; object-fit: cover; margin: 0 auto 15px;">
 
-<img src="foto.jpg" alt="Vanessa Valdivia" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin: 0 auto 15px;">
+# Vanessa Valdivia
 
 ¡Hola! Te doy la bienvenida a mi portafolio de proyectos de Análisis de Datos.
 
