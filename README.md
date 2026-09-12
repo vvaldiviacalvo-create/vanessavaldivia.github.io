@@ -1,5 +1,3 @@
-¡Quedó excelente! Para aumentar un poco más el tamaño del texto en general (párrafos, viñetas, enlaces y listas) para que sea más legible y destaque aún más, aquí tienes el código actualizado con la escala tipográfica incrementada:
-
 HTML
 <style>
   header { display: none !important; }
