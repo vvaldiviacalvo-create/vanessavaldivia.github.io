@@ -1,8 +1,15 @@
-<table>
+<style>
+  /* Oculta la columna lateral izquierda por defecto del tema */
+  header { display: none !important; }
+  /* Expande el contenedor principal al 100% del ancho */
+  section { width: 100% !important; float: none !important; max-width: 900px !important; margin: 0 auto !important; }
+</style>
+
+<table style="width: 100%; border-collapse: collapse; border: none;">
 <tr style="border: none;">
 
 <!-- COLUMNA IZQUIERDA (Perfil) -->
-<td style="width: 32%; vertical-align: top; border: none; padding-right: 25px;">
+<td style="width: 30%; vertical-align: top; border: none; padding-right: 20px;">
 
 <div style="text-align: center;">
 
@@ -23,7 +30,7 @@
 </td>
 
 <!-- COLUMNA DERECHA (Contenido Principal) -->
-<td style="width: 68%; vertical-align: top; border: none; padding-left: 15px;">
+<td style="width: 70%; vertical-align: top; border: none; padding-left: 20px;">
 
 <h1 style="font-size: 2em; font-weight: bold; color: #111827; margin-bottom: 10px; border-bottom: 2px solid #e5e7eb; padding-bottom: 5px;">Acerca de mí</h1>
 
