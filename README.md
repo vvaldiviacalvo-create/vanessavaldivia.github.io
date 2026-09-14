@@ -92,32 +92,25 @@
   <span class="badge-btn">SCIPY</span>
 </div>
 
-<p style="margin-top: 15px; margin-bottom: 8px;"><b>📊 Visualizaciones Destacadas:</b></p>
+<p style="margin-top: 15px; margin-bottom: 12px;"><b>📊 Visualizaciones Destacadas:</b></p>
 
-<table style="width: 100%; border-collapse: collapse; margin-bottom: 20px; border: none;">
-  <tr style="border: none;">
-    <!-- IMAGEN 1: Overview Ejecutivo -->
-    <td style="width: 50%; vertical-align: top; padding-right: 10px; border: none;">
-      <div style="text-align: center;">
-        <p style="font-size: 0.9em; font-weight: bold; color: #1f2937; margin-bottom: 6px;">Overview Ejecutivo (Power BI)</p>
-        <img src="overview_ejecutivo.png" alt="Overview Ejecutivo Power BI" style="width: 100%; border-radius: 6px; border: 1px solid #e5e7eb; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-      </div>
-      <p style="font-size: 0.85em; color: #4b5563; margin-top: 8px; line-height: 1.4;">
-        <b>Descripción:</b> Monitoreo general de KPIs financieros (Revenue, Profit, Gasto de Marketing y Ticket Promedio). Permite analizar la evolución temporal del margen neto e identificar variaciones mensuales aceleradas o desaceleradas.
-      </p>
-    </td>
-    <!-- IMAGEN 2: Desempeño Comercial -->
-    <td style="width: 50%; vertical-align: top; padding-left: 10px; border: none;">
-      <div style="text-align: center;">
-        <p style="font-size: 0.9em; font-weight: bold; color: #1f2937; margin-bottom: 6px;">Desempeño Comercial y Margen</p>
-        <img src="desempeno_comercial.png" alt="Desempeño Comercial Power BI" style="width: 100%; border-radius: 6px; border: 1px solid #e5e7eb; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-      </div>
-      <p style="font-size: 0.85em; color: #4b5563; margin-top: 8px; line-height: 1.4;">
-        <b>Descripción:</b> Análisis de volumen de ventas y concentración del beneficio por categoría de producto. Incluye un detalle financiero desglosado por unidades vendidas, costos y ganancia total para respaldar la gestión del catálogo.
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- VISUALIZACIÓN 1: Overview Ejecutivo -->
+<div style="margin-bottom: 30px; text-align: center;">
+  <p style="font-size: 1em; font-weight: bold; color: #1f2937; margin-bottom: 8px; text-align: left;">1. Overview Ejecutivo (Power BI)</p>
+  <img src="overview_ejecutivo.png" alt="Overview Ejecutivo Power BI" style="width: 100%; max-width: 900px; border-radius: 8px; border: 1px solid #e5e7eb; box-shadow: 0 3px 6px rgba(0,0,0,0.08); display: block; margin: 0 auto 10px;">
+  <p style="font-size: 0.9em; color: #4b5563; text-align: left; line-height: 1.5;">
+    <b>Descripción:</b> Monitoreo general de KPIs financieros (Revenue, Profit, Gasto de Marketing y Ticket Promedio). Permite analizar la evolución temporal del margen neto e identificar variaciones mensuales aceleradas o desaceleradas.
+  </p>
+</div>
+
+<!-- VISUALIZACIÓN 2: Desempeño Comercial -->
+<div style="margin-bottom: 30px; text-align: center;">
+  <p style="font-size: 1em; font-weight: bold; color: #1f2937; margin-bottom: 8px; text-align: left;">2. Desempeño Comercial y Margen</p>
+  <img src="desempeno_comercial.png" alt="Desempeño Comercial Power BI" style="width: 100%; max-width: 900px; border-radius: 8px; border: 1px solid #e5e7eb; box-shadow: 0 3px 6px rgba(0,0,0,0.08); display: block; margin: 0 auto 10px;">
+  <p style="font-size: 0.9em; color: #4b5563; text-align: left; line-height: 1.5;">
+    <b>Descripción:</b> Análisis de volumen de ventas y concentración del beneficio por categoría de producto. Incluye un detalle financiero desglosado por unidades vendidas, costos y ganancia total para respaldar la gestión del catálogo.
+  </p>
+</div>
 
 <p style="margin-bottom: 30px;"><a href="https://github.com/vvaldiviacalvo-create/TU_REPOSO_RAPPI" target="_blank" style="font-weight: bold; color: #2b6cb0;">👉 Ver código completo y documentación detallada en GitHub</a></p>
 
