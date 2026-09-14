@@ -53,6 +53,13 @@
 <h2 style="font-size: 1.6em; font-weight: bold; color: #1f2937; margin-top: 20px; margin-bottom: 8px;">🛵 RappiPlus: Optimización de Negocio y Métricas de Ingresos</h2>
 <p>Evaluación <i>end-to-end</i> del servicio <b>RappiPlus</b> para identificar oportunidades de crecimiento y eficiencia operativa mediante el análisis de rentabilidad unitaria, embudos de conversión y retención de usuarios.</p>
 
+<p style="margin-top: 10px; margin-bottom: 4px;"><b>🛠️ Herramientas:</b></p>
+  <span class="badge-btn">PYTHON</span>
+  <span class="badge-btn">SQL</span>
+  <span class="badge-btn">POWER BI</span>
+  <span class="badge-btn">SCIPY</span>
+</div>
+
 <p style="margin-top: 10px; margin-bottom: 4px;"><b>❓ Preguntas Clave:</b></p>
 <ul style="margin-top: 0; padding-left: 20px; font-size: 0.95em;">
   <li>¿Existen inconsistencias en los registros de ventas que distorsionen los KPIs financieros?</li>
@@ -84,13 +91,6 @@
   <li>Foco en productos de mayor margen y recurrencia (como electrónica y tecnología) mediante campañas de <i>cross-selling</i> dirigidas a frenar el <i>churn</i> a partir del segundo mes en la matriz de cohortes.</li>
   <li>Implementar reglas de validación en la capa de captura transaccional para evitar inconsistencias en precios base y asegurar un seguimiento financiero preciso en los dashboards de Power BI.</li>
 </ul>
-
-<div style="margin-top: 12px; margin-bottom: 15px;">
-  <span class="badge-btn">PYTHON</span>
-  <span class="badge-btn">SQL</span>
-  <span class="badge-btn">POWER BI</span>
-  <span class="badge-btn">SCIPY</span>
-</div>
 
 <p style="margin-top: 15px; margin-bottom: 12px;"><b>📊 Visualizaciones Destacadas:</b></p>
 
