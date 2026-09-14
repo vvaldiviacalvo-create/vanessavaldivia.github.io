@@ -79,10 +79,10 @@
 
 <p style="margin-top: 10px; margin-bottom: 4px;"><b>🚀 Recomendaciones:</b></p>
 <ul style="margin-top: 0; padding-left: 20px; font-size: 0.95em;">
-  <li><b>Detener el despliegue de la nueva interfaz de pago. Se sugiere iterar la propuesta de diseño y reevaluar mediante un nuevo test antes de comprometer recursos de desarrollo.</li>
-  <li><b>Priorizar la inversión publicitaria en canales orgánicos y de búsqueda de alta intención, reduciendo el gasto en campañas pagadas de baja retención para controlar el CAC y proteger el Margen Neto.</li>
-  <li><b>Foco en productos de mayor margen y recurrencia (como electrónica y tecnología) mediante campañas de <i>cross-selling</i> dirigidas a frenar el <i>churn</i> a partir del segundo mes en la matriz de cohortes.</li>
-  <li><b>Implementar reglas de validación en la capa de captura transaccional para evitar inconsistencias en precios base y asegurar un seguimiento financiero preciso en los dashboards de Power BI.</li>
+  <li>Detener el despliegue de la nueva interfaz de pago. Se sugiere iterar la propuesta de diseño y reevaluar mediante un nuevo test antes de comprometer recursos de desarrollo.</li>
+  <li>Priorizar la inversión publicitaria en canales orgánicos y de búsqueda de alta intención, reduciendo el gasto en campañas pagadas de baja retención para controlar el CAC y proteger el Margen Neto.</li>
+  <li>Foco en productos de mayor margen y recurrencia (como electrónica y tecnología) mediante campañas de <i>cross-selling</i> dirigidas a frenar el <i>churn</i> a partir del segundo mes en la matriz de cohortes.</li>
+  <li>Implementar reglas de validación en la capa de captura transaccional para evitar inconsistencias en precios base y asegurar un seguimiento financiero preciso en los dashboards de Power BI.</li>
 </ul>
 
 <div style="margin-top: 12px; margin-bottom: 15px;">
