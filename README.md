@@ -28,7 +28,7 @@
 
 <h1 style="font-size: 2.7em; font-weight: bold; margin-bottom: 20px; color: #2b6cb0; line-height: 1.1;">Vanessa Valdivia</h1>
 
-<img src="foto.jpg" alt="Vanessa Valdivia" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover; margin: 0 auto 20px; display: block;">
+<img src="foto.jpg" alt="Vanessa Valdivia" style="width: 220px; height: 220px; border-radius: 50%; object-fit: cover; margin: 0 auto 20px; display: block;">
 
 <p style="font-size: 1.15em; color: #374151; line-height: 1.5;">
 ¡Hola! Te doy la bienvenida a mi portafolio de proyectos de Análisis de Datos.
