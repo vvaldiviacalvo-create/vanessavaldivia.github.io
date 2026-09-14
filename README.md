@@ -92,10 +92,6 @@
   <span class="badge-btn">SCIPY</span>
 </div>
 
-<p style="margin-bottom: 30px;"><a href="https://github.com/vvaldiviacalvo-create/TU_REPOSO_RAPPI" target="_blank" style="font-weight: bold; color: #2b6cb0;">👉 Ver código completo y documentación detallada en GitHub</a></p>
-
-<hr style="border: 0; border-top: 1px solid #e5e7eb; margin: 25px 0;">
-
 <p style="margin-top: 15px; margin-bottom: 8px;"><b>📊 Visualizaciones Destacadas:</b></p>
 
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px; border: none;">
@@ -122,6 +118,10 @@
     </td>
   </tr>
 </table>
+
+<p style="margin-bottom: 30px;"><a href="https://github.com/vvaldiviacalvo-create/TU_REPOSO_RAPPI" target="_blank" style="font-weight: bold; color: #2b6cb0;">👉 Ver código completo y documentación detallada en GitHub</a></p>
+
+<hr style="border: 0; border-top: 1px solid #e5e7eb; margin: 25px 0;">
 
 <!-- PROYECTO 2 -->
 <h2 style="font-size: 1.6em; font-weight: bold; color: #1f2937; margin-top: 20px; margin-bottom: 10px;">Análisis de retención y conversión en E-commerce</h2>
