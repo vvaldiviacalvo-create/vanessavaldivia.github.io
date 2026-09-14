@@ -63,28 +63,45 @@
 <br>
 
 <h1 style="font-size: 2.3em; font-weight: bold; color: #111827; margin-top: 25px; margin-bottom: 12px; border-bottom: 2px solid #e5e7eb; padding-bottom: 6px;">Proyectos seleccionados</h1>
+# 🛵 RappiPlus: Optimización de Negocio y Métricas de Ingresos
 
-<h2 style="font-size: 1.7em; font-weight: bold; color: #1f2937; margin-top: 20px; margin-bottom: 10px;">RappiPlus: Data Pipeline & Unit Economics</h2>
+## 📌 Introducción
+Este proyecto realiza una evaluación *end-to-end* del servicio **RappiPlus** para identificar oportunidades de crecimiento y eficiencia operativa. A través de la integración de fuentes de datos transaccionales, catálogo de productos, inversión publicitaria y analítica de producto, se analizan la rentabilidad unitaria, la conversión del usuario y la retención en la plataforma.
 
-<p>Auditoría de calidad sobre +25k órdenes, recálculo de ingresos, tratamiento de outliers mediante Winsorización y pruebas A/B en el checkout para optimizar la conversión.</p>
+---
 
-<div style="margin-top: 12px; margin-bottom: 25px;">
-  <span class="badge-btn">PYTHON</span>
-  <span class="badge-btn">SQL</span>
-  <span class="badge-btn">POWER BI</span>
-  <span class="badge-btn">SCIPY</span>
-</div>
+## ❓ Preguntas Clave de Negocio
+1. **Calidad de Datos:** ¿Existen inconsistencias o valores atípicos en los registros de ventas que distorsionen los KPIs financieros?
+2. **Rentabilidad:** ¿Cuáles son los canales de adquisición y mercados más rentables en términos de Margen Neto y CAC?
+3. **Conversión y Retención:** ¿En qué etapas del embudo se concentran las mayores fugas de usuarios y cómo evoluciona la retención por cohortes a lo largo del tiempo?
+4. **Experimentos A/B:** ¿El rediseño de la interfaz de Checkout genera un impacto estadísticamente significativo en la tasa de conversión?
 
-<h2 style="font-size: 1.7em; font-weight: bold; color: #1f2937; margin-top: 20px; margin-bottom: 10px;">Análisis de retención y conversión en E-commerce</h2>
+---
 
-<p>Identificación de factores clave en la conversión y comportamiento de retención mensual utilizando Common Table Expressions (CTEs) y funciones de ventana en SQL.</p>
+## 🛠️ Metodología
+- **Auditoría y Limpieza (Python):** Depuración de +25,000 registros transaccionales a 24,600 entradas válidas. Manejo de *outliers* mediante **Winsorización** al percentil 99 e imputación de nulos.
+- **Análisis Financiero:** Integración de costos e inversión en marketing para calcular Margen Bruto, Ganancia Neta y CAC por canal y país.
+- **Embudos y Cohortes (SQL/Python):** Mapeo de tasas de caída (*drop-off*) y matrices de retención mensual a 6 meses.
+- **Validación Estadística:** Prueba de hipótesis ($\chi^2$ / tablas de contingencia) sobre el experimento A/B del flujo de Checkout.
 
-<div style="margin-top: 12px;">
-  <span class="badge-btn">SQL</span>
-  <span class="badge-btn">POSTGRESQL</span>
-  <span class="badge-btn">ANALYTICS</span>
-</div>
+---
 
-</td>
-</tr>
-</table>
+## 📊 Visualizaciones Destacadas
+*(Inserta aquí las capturas o GIFs de tus gráficos)*
+
+| Dashboard de Performance (Power BI) | Matriz de Retención por Cohortes |
+| :---: | :---: |
+| `![Dashboard](URL_DE_TU_IMAGEN_1)` | `![Cohortes](URL_DE_TU_IMAGEN_2)` |
+
+---
+
+## 💡 Conclusiones y Recomendaciones
+
+### Conclusiones
+- **Integridad:** La depuración de precios base y la aplicación de descuentos reales corrigió sobreestimaciones en el volumen de ingresos totales.
+- **Canales de Adquisición:** Se identificaron disparidades marcadas en el CAC entre canales orgánicos y pagados, afectando el margen neto global.
+- **Impacto A/B:** *(Agrega tu hallazgo puntual, ej.: "El nuevo diseño del Checkout incrementó la conversión con significancia estadística, p-valor < 0.05").*
+
+### Recomendaciones
+- **Optimización de Presupuesto:** Reasignar inversión publicitaria de canales con alto *churn* hacia fuentes de adquisición de mayor LTV.
+- **Implementación de UI:** Desplegar de forma definitiva la nueva interfaz de Checkout validada en la prueba A/B.
